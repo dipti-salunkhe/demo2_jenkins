@@ -1,5 +1,5 @@
 import java.io.*;
-//dipti salunkhe
+//comment made by dipti
 class demo1
 {     public static void main(String args[]) 
     { 
